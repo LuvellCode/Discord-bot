@@ -1,0 +1,25 @@
+{
+  "prefix": "!",
+  "client_id": "604024934825590794",
+  "owner_id": "302477161518989313",
+  "roles": {
+    "moder": "Moderator",
+    "admin": "Царь святого пиздюка",
+    "muted": "GodMuted"
+  },
+  "colors": {
+    "main": "#15f153",
+    "warn": "#f39c12",
+    "error": "#c0392b"
+  },
+  "channels": {
+    "report": "moderation",
+    "kick": "moderation",
+    "ban": "moderation",
+    "mute": "moderation",
+    "welcome": "основной"
+  },
+  "replies": {
+    "":""
+  }
+}

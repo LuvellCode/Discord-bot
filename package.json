@@ -1,0 +1,21 @@
+{
+  "name": "god-father",
+  "version": "1.0.0",
+  "description": "Hito's test bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hito#9502",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ms": "^2.1.2",
+    "node-opus": "^0.3.2",
+    "npm": "^6.10.2",
+    "simple-youtube-api": "^5.2.1",
+    "superagent": "^5.1.0",
+    "yt-search": "^0.4.1",
+    "ytdl-core": "^0.29.3"
+  }
+}
