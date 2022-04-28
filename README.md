@@ -1,2 +1,2 @@
 # Discord-bot
-[Graveyard] old discord JS bot
+[Graveyard] discord JS bot
